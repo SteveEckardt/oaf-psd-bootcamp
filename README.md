@@ -61,6 +61,6 @@ Analysis of 80 years of data (1940-2020) shows:
 ## Author
 
 Steve Eckardt  
-Professional Software Development Bootcamp, Open Avenues Foundation  
-October 2023 - December 2023
-This project is for educational and portfolio purposes.
+October 2023 - December 2023  
+Professional Software Development Bootcamp, Open Avenues Foundation   
+This project is for educational and portfolio purposes.  
